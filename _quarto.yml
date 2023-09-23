@@ -22,7 +22,7 @@ website:
       - href: materials.qmd
         text: Call for poster presentations
       - href: organizers.qmd
-        text: Orgnaizers
+        text: Organizers
    
 format:
   html:
