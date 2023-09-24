@@ -13,7 +13,7 @@ title: "Workshop: Charting human biology using AI for Precision Health & Precisi
 
 ### Time
 
-Nov 16th 2023 , 8:30am - 4:15pm  [schedule](schedule.qmd)  [call for posters / registration]([schedule](materials.qmd)
+Nov 16th 2023 , 8:30am - 4:15pm  [schedule](schedule.qmd)  [call for posters / registration](materials.qmd)
 
 ### What is it about?
 
