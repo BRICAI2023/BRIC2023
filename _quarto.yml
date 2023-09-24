@@ -10,9 +10,6 @@ website:
     pinned: true
     align: center
     tools:
-      - icon: github
-        href: https://github.com/BRICAI2023/charting_human_biology_using_AI
-        text: GitHub
     style: docked
     contents:
       - href: index.qmd
