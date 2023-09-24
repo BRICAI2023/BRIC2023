@@ -2,7 +2,7 @@
 title: "Mini-conference: Charting human biology using AI for Precision Health & Precision Medicine"
 ---
 
-![](images/charting_human_biology_using_AI.png){width=30%}
+![](images/charting_human_biology_using_AI.png){width=35%}
 
 
 ### Location
