@@ -9,8 +9,6 @@ website:
     #logo: "images/logo.png"
     pinned: true
     align: center
-    tools:
-    style: docked
     contents:
       - href: index.qmd
         text: Home
