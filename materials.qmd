@@ -2,6 +2,8 @@
 title: "CALL FOR POSTER PRESENTATIONS"
 ---
 
+Please submit your abstracts using the link below. 
+
 ### Topics of interest include but not limited to
 
 • Models unraveling biological networks generating actionable insights on perturbations and recovery mechanisms
