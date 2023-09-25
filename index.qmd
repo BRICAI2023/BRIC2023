@@ -76,6 +76,17 @@ Central to our methodology is the integration of AI, which enables the rational 
 
 MatchMiner is an open source platform for cancer precision medicine, supporting clinical trial enrollments at Dana-Farber Cancer Institute. Clinical trials in precision oncology frequently face challenges with patient enrollment, partly due to the difficulty of finding patients which simultaneously meet eligibility criteria and are ready to change treatment. To address these challenges we initiated a study using AI tools to assist in identifying the right time to alert a physician about patient eligibility.
 
+![](images/matthew.png){width=30%}
+
+Dr. Matthew Bernstein is a Principal Scientist, Computational Biology at Immunitas Therapeutics. He develops computational and statistical methods to analyze large scale single-cell and spatial transcriptomics datasets to discover new immunotherapies for challenging cancers. Prior to joining Immunitas, Dr. Bernstein completed a Ph.D. in Computer Sciences from the University of Wisconsin – Madison and a postdoctoral fellowship at the Morgridge Institute for Research.
+
+**Talk title:** 
+
+**Annotating cell types and cell states in single-cell omics data: a challenging problem**
+
+**Abstract:**
+
+A first and fundamental task in the analysis of single-cell omics data is annotating the cell type or phenotype of each cell. Though fundamental, this task still poses a bottleneck in the analysis of these data despite the fact that a large number of machine learning based methods have been developed to facilitate this task. Part of the reason for these difficulties is the lack of a standard definition for what constitutes a cell type versus a cell state and a lack of standard nomenclature for cataloging them. In this talk, I will present a mental framework for thinking about cell types versus cell states, how we can catalogue them using ontologies, and how various existing machine learning methods implicitly define the cell type annotation task. 
 
 
 
