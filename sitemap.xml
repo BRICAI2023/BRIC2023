@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://github.com/BRICAI2023/BRIC2023/schedule.html</loc>
-    <lastmod>2023-09-25T16:23:56.486Z</lastmod>
-  </url>
-  <url>
-    <loc>https://github.com/BRICAI2023/BRIC2023/materials.html</loc>
-    <lastmod>2023-09-25T16:23:55.702Z</lastmod>
-  </url>
-  <url>
     <loc>https://github.com/BRICAI2023/BRIC2023/index.html</loc>
-    <lastmod>2023-09-25T16:23:53.946Z</lastmod>
+    <lastmod>2023-10-02T20:20:32.515Z</lastmod>
   </url>
   <url>
     <loc>https://github.com/BRICAI2023/BRIC2023/organizers.html</loc>
-    <lastmod>2023-09-25T16:23:56.122Z</lastmod>
+    <lastmod>2023-10-02T20:20:31.559Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/BRICAI2023/BRIC2023/materials.html</loc>
+    <lastmod>2023-10-02T20:20:30.795Z</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/BRICAI2023/BRIC2023/schedule.html</loc>
+    <lastmod>2023-10-02T20:20:31.895Z</lastmod>
   </url>
 </urlset>
