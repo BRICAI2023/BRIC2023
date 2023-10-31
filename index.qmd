@@ -121,6 +121,19 @@ Dr. Charles Fisher is a founder and CEO at Unlearn.AI. Unlearn develops generati
 **Abstract:**
 Clinical trials typically evaluate the efficacy of an investigational drug or device relative to placebo and/or standard of care. While randomization allows one to estimate the average difference between the treatment and control potential outcomes in the trial population, randomized studies require large numbers of participants to be assigned to a control group, which is both costly and inefficient and often against the wishes of patients themselves. Fortunately, the creation of large databases of individual participant data from historical studies and real world sources makes it possible to train generative models to forecast control potential outcomes for participants in clinical trials—which we call their ‘digital twins’. Participants’ digital twins can be used to create in silico control groups for single arm proof-of-concept studies, or to derive prognostic scores for use as ‘super covariates’ in randomized studies to increase power in ways that are suitable for phase 3 studies as illustrated by the EMA’s qualification opinion for Unlearn’s PROCOVA methodology.
 
+---
+
+![](images/michal_warchol.jpg){width=30%}
+
+Dr. Michal Warchol, is the Executive Vice President at Ardigen. He serves as the General Director of AI Lab that specializes in providing AI-driven technology solutions to biotech and pharmaceutical companies, accelerating the drug discovery processes by transforming large volumes of data into actionable scientific insights. Dr. Warchoł did a PhD in Statistics at the Institute of Statistics, Biostatistics and Actuarial Sciences at Université Catholique de Louvain in Belgium. He conducted part of his research program at the Department of Statistics at Columbia University in New York. 
+**Talk title:**
+
+**Multimodal approach to phenotype-guided virtual screening of small molecules**
+
+**Abstract:**
+High Content Screening (HCS) is a well-established technology used in the drug discovery process. Recent advancements in Artificial Intelligence, computer vision, and computational capabilities increase phenotypic screening potential; leveraging the massive amounts of information encoded in multicolor images at single-cell resolution. Our research is centered on the synergistic integration of chemical structures and images from HCS experiments, resulting in a more robust data structure. We demonstrate a substantial performance enhancement achieved through the multimodal approach in diverse applications, including chemical and biological properties prediction, hit identification and virtual screening of molecules that are most likely to induce a phenotype of interest. 
+
+---
 
 
 
