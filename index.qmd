@@ -123,7 +123,7 @@ Clinical trials typically evaluate the efficacy of an investigational drug or de
 
 ---
 
-![](images/michal_warchol.jpg){width=30%}
+![](images/Michal_Warchol.jpg){width=30%}
 
 Dr. Michal Warchol, is the Executive Vice President at Ardigen. He serves as the General Director of AI Lab that specializes in providing AI-driven technology solutions to biotech and pharmaceutical companies, accelerating the drug discovery processes by transforming large volumes of data into actionable scientific insights. Dr. Warchoł did a PhD in Statistics at the Institute of Statistics, Biostatistics and Actuarial Sciences at Université Catholique de Louvain in Belgium. He conducted part of his research program at the Department of Statistics at Columbia University in New York. 
 
