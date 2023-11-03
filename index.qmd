@@ -73,6 +73,18 @@ Cell morphology holds valuable information about the mechanisms and functions of
 
 **Session 2**
 
+Elizabeth Wood, PhD, currently serves as President and Chief Executive Officer of JURA Bio, Inc. and serves on the company’s Board of Directors. JURA is transforming the AI-driven design of therapeutic candidates across multiple modalities like proteins, cells and gene therapies by extending machine learning from upstream generative gene synthesis to downstream clinical development. Dr. Wood serves on the steering committee of the Broad Institute's Models, Inference & Algorithms (MIA) initiative. From 2019-2022, she led LMRL, a NeurIPS workshop on machine learning applications in biology. She serves on the Board of Project Clio, a 501(c)3 dedicated to furthering research of autoimmune diseases in underserved populations, as well as on the board of the MIT Safe Household Water Project. She is a 2022 Henri Termeer Fellow. Dr. Wood was previously a postdoctoral fellow at Harvard University working with Dr. Adam Cohen, as well as a visiting researcher with Kresten Lindorff-Larsen at the Linderstrøm-Lang Centre for Protein Science at the University of Copenhagen. She received her PhD in physics from the Danish Technical University and AB in physics from Harvard College.
+
+**Talk Title:**
+
+**Variational Synthesis Atlas of Human T Cell Repertoires (VISTA-T): Generative Library Design Enables Large Scale Discovery of Therapeutically Relevant TCRs**
+
+**Abstract:**
+
+A major challenge in adoptive T cell immunotherapy is the identification of natural T cell receptors (TCRs) with both high activity and tumor antigen specificity. Synthetic TCRs, despite their promise, are fraught with risks such as potential cross-reactivity and the unpredictability of the relationship between TCR binding affinity and activity in response to antigen (peptide-MHC). To address this challenge, we introduce Jura’s VISTA platform, a method for therapeutic discovery that merges computational design, genome editing, and single-cell sequencing. The platform replicates the natural population-wide diversity of human TCRs and assesses their binding activity at a high-throughput scale. To build TCR libraries, VISTA-T implements variational synthesis, a recently proposed method for efficiently synthesizing samples from a generative sequence model in the laboratory. Here, the generative models are trained on a wide array of human TCR repertoires. The resulting libraries consist of highly realistic TCRs, at a scale and diversity comparable to natural repertoires (>10^9 unique sequences). These TCRs are assessed via a high-throughput binding assay in a human T cell line, with readout of downstream activation. VISTA-T successfully identifies TCRs specific to various clinically relevant tumor-associated antigens, validating their translational potential.
+
+---
+
 ![](images/xihao.png){width=30%}
 
 [Dr. Sherlock Hu](https://www.linkedin.com/in/xihao-sherlock-hu/), the CIO of [GV20 Therapeutics](https://gv20oncotherapy.com/), earned his Ph.D. in Computer Science from the Chinese University of Hong Kong. He later pursued postdoctoral training in Prof. Shirley Liu's lab at Dana-Farber Cancer Institute and Harvard University. In 2019, he was named Parker Scholar by the Parker Institute for his innovative work in mining tumor-infiltrating B cell receptor repertoires. Dr. Hu's expertise in Computational Biology and Immunology underpins GV20's AI platform, enabling the deep learning-based de novo design of fully human functional antibodies. At GV20, Sherlock leads the bioinformatics and AI teams, spearheading AI-driven antibody drug design.
