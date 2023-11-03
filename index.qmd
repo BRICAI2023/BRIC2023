@@ -39,6 +39,15 @@ to development of more effective interventions specific to each subgroup.
 
 **Session 1**
 
+Virginia Savova, PhD. Senior Director, Global Head of Single-cell Biology
+
+**Talk Title:**
+
+**From Single-cell Biology To Cell-Centric Drug Discovery**
+
+**Abstract**
+
+TBD
 
 ---
 
@@ -46,7 +55,7 @@ to development of more effective interventions specific to each subgroup.
 
 Dr. Matthew Bernstein is a Principal Scientist, Computational Biology at Immunitas Therapeutics. He develops computational and statistical methods to analyze large scale single-cell and spatial transcriptomics datasets to discover new immunotherapies for challenging cancers. Prior to joining Immunitas, Dr. Bernstein completed a Ph.D. in Computer Sciences from the University of Wisconsin – Madison and a postdoctoral fellowship at the Morgridge Institute for Research.
 
-**Talk title:** 
+**Talk Title:** 
 
 **Annotating cell types and cell states in single-cell omics data: a challenging problem**
 
@@ -64,7 +73,6 @@ A first and fundamental task in the analysis of single-cell omics data is annota
 
 **Finding disease phenotypes and candidate therapeutics using images: Cell Painting**
 
-
 **Abstract:**
 
 Cell morphology holds valuable information about the mechanisms and functions of cell structures, and microscopy has been instrumental in uncovering biological phenomena. However, images of cell structures contain more information than what meets the eye. With the advancements in image analysis and deep learning, this rich information can be captured and quantified to drive progress in basic biology research and drug discovery. Image-based profiling using fluorescence microscopy assays such as Cell Painting can reveal the impact of diseases, drugs, and genes on cells, uncover mechanisms of action for small molecules, identify disease-associated phenotypes, detect response to drugs, and predict biological impact and toxicity of compounds, among other applications. This is leading to a growing impact on the pharmaceutical industry as cell morphology becomes a powerful data source for systems biology alongside molecular omics readouts.
@@ -72,6 +80,8 @@ Cell morphology holds valuable information about the mechanisms and functions of
 ---
 
 **Session 2**
+
+![](images/Elisabeth_Wood.png){width=30%}
 
 Elizabeth Wood, PhD, currently serves as President and Chief Executive Officer of JURA Bio, Inc. and serves on the company’s Board of Directors. JURA is transforming the AI-driven design of therapeutic candidates across multiple modalities like proteins, cells and gene therapies by extending machine learning from upstream generative gene synthesis to downstream clinical development. Dr. Wood serves on the steering committee of the Broad Institute's Models, Inference & Algorithms (MIA) initiative. From 2019-2022, she led LMRL, a NeurIPS workshop on machine learning applications in biology. She serves on the Board of Project Clio, a 501(c)3 dedicated to furthering research of autoimmune diseases in underserved populations, as well as on the board of the MIT Safe Household Water Project. She is a 2022 Henri Termeer Fellow. Dr. Wood was previously a postdoctoral fellow at Harvard University working with Dr. Adam Cohen, as well as a visiting researcher with Kresten Lindorff-Larsen at the Linderstrøm-Lang Centre for Protein Science at the University of Copenhagen. She received her PhD in physics from the Danish Technical University and AB in physics from Harvard College.
 
