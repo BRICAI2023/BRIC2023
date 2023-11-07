@@ -10,11 +10,11 @@ Agenda (Timezone EST):
  
 8:55 am - 9:30 am – **Overview of the Agenda and Welcome Remarks**
 
-**Ilknur Icke**, PhD. Director of Applied Machine Learning, Bayer
+8:55am - 9am **Ilknur Icke**, PhD. Director of Applied Machine Learning, Bayer
 
-**Emmanuelle di Tomaso**, PhD  Global Head, Translational Sciences Oncology, Bayer
+9am - 9:15am **Emmanuelle di Tomaso**, PhD  Global Head, Translational Sciences Oncology, Bayer
 
-**Sai Jasti**, SVP, Head of Data Science and AI, Bayer
+9:15am - 9:30am **Sai Jasti**, SVP, Head of Data Science and AI, Bayer
  
 9:30 am - 11:00am **Session 1. Understanding health and disease for Precision Health and Precision Medicine**
 
