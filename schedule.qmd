@@ -42,7 +42,7 @@ Moderator: **Matteo Aldeghi**, PhD. Director of Machine Learning Research, Bayer
 
 ***Variational Synthesis Atlas of Human T Cell Repertoires (VISTA-T): Generative Library Design Enables Large Scale Discovery of Therapeutically Relevant TCRs***
 
-13pm - 12:30pm **Sherlock Hu**, PhD.  CIO, GV20 Therapeutics
+12pm - 12:30pm **Sherlock Hu**, PhD.  CIO, GV20 Therapeutics
 
 ***AI for Target Identification and Antibody Discovery***
 
