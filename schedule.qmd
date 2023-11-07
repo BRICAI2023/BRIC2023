@@ -6,10 +6,9 @@ The event will be held on Nov 16th.
 
 Agenda (Timezone EST):
 
-8:00am – 8:45 am
-Registration and Coffee
+8:00am – 8:45 am **Registration and Coffee**
  
-8:55 am - 9:30 am – Overview of the Agenda and Welcome Remarks
+8:55 am - 9:30 am – **Overview of the Agenda and Welcome Remarks**
 
 Ilknur Icke, Director of Applied Machine Learning, Bayer
 
@@ -17,12 +16,11 @@ Emmanuelle di Tomaso,  Global Head, Translational Sciences Oncology, Bayer
 
 Sai Jasti, SVP, Head of Data Science and AI, Bayer
  
-9:30 am - 11:00am
-Session 1. Understanding health and disease for Precision Health and Precision Medicine 
+9:30 am - 11:00am **Session 1. Understanding health and disease for Precision Health and Precision Medicine**
 
 Moderator:
 
-9:30am - 10:00 am Virginia Savova, PhD. Senior Director, Global Head of Single-cell Biology, Sanofi
+9:30am - 10:00 am **Virginia Savova**, PhD. Senior Director, Global Head of Single-cell Biology, Sanofi
 
 From Single-cell Biology To Cell-Centric Drug Discovery
 
