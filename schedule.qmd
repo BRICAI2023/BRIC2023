@@ -18,7 +18,7 @@ Agenda (Timezone EST):
  
 9:30 am - 11:00am **Session 1. Understanding health and disease for Precision Health and Precision Medicine**
 
-Moderator:
+Moderator: **Farzaneh Nasirian**, PhD. Applied Machine Learning, Bayer
 
 9:30am - 10:00 am **Virginia Savova**, PhD. Senior Director, Global Head of Single-cell Biology, Sanofi
 
@@ -56,7 +56,7 @@ Participating companies: Ardigen, Leal Health, Superluminal Medicines
  
 2:00pm - 3:30pm **Session 3. Conducting Better Clinical Trials for Precision Medicine**
 
-Moderator:
+Moderator: **Sara Rahmati**, PhD. Applied Machine Learning, Bayer
 
 2pm - 2:30pm **Gustavo Arango-Argoty**, Ph.D.  Associate Director, Applied Data Science, AstraZeneca
 
