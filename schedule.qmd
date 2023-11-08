@@ -15,7 +15,9 @@ Agenda (Timezone EST):
 9am - 9:15am **Emmanuelle di Tomaso**, PhD  Global Head, Translational Sciences Oncology, Bayer
 
 9:15am - 9:30am **Sai Jasti**, SVP, Head of Data Science and AI, Bayer
- 
+
+---
+
 9:30 am - 11:00am **Session 1. Understanding health and disease for Precision Health and Precision Medicine**
 
 Moderator: **Farzaneh Nasirian**, PhD. Applied Machine Learning, Bayer
@@ -31,8 +33,12 @@ Moderator: **Farzaneh Nasirian**, PhD. Applied Machine Learning, Bayer
 10:30am - 11am **Shantanu Singh**, Ph.D.  Senior Group Leader at the Broad Institute
 
 ***Finding disease phenotypes and candidate therapeutics using images: Cell Painting***
+
+---
  
 Coffee Break and Networking - refreshments will be served (30 mins)
+
+---
  
 11:30am- 1:00pm **Session 2. Designing Therapeutics for Precision Medicine**
 
@@ -50,9 +56,13 @@ Moderator: **Matteo Aldeghi**, PhD. Director of Machine Learning Research, Bayer
 
 ***Multimodal approach to phenotype-guided virtual screening of small molecules***
 
+---
+
 1:00pm – 2:00pm **Lunch Break - Poster and Networking Session at BRIC 6th floor (lunch will be provided)**
 
 Participating companies: Ardigen, Leal Health, Superluminal Medicines
+
+---
  
 2:00pm - 3:30pm **Session 3. Conducting Better Clinical Trials for Precision Medicine**
 
@@ -70,7 +80,11 @@ Moderator: **Sara Rahmati**, PhD. Applied Machine Learning, Bayer
 
 ***Enabling Efficient Clinical Trials with Generative Models for Clinical Timeseries***
 
+---
+
 Coffee Break and Networking - refreshments will be provided (30 mins)
+
+---
  
 4pm - 4:15pm **Dylan Morris**, Managing Director, Insight Partners
 
