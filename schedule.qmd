@@ -32,7 +32,7 @@ Moderator: **Farzaneh Nasirian**, PhD. Applied Machine Learning, Bayer
 
 ***Finding disease phenotypes and candidate therapeutics using images: Cell Painting***
  
-Coffee Break - refreshments will be served (30 mins)
+Coffee Break and Networking - refreshments will be served (30 mins)
  
 11:30am- 1:00pm **Session 2. Designing Therapeutics for Precision Medicine**
 
@@ -70,7 +70,7 @@ Moderator: **Sara Rahmati**, PhD. Applied Machine Learning, Bayer
 
 ***Enabling Efficient Clinical Trials with Generative Models for Clinical Timeseries***
 
-Coffee Break - refreshments will be provided (30 mins)
+Coffee Break and Networking - refreshments will be provided (30 mins)
  
 4pm - 4:15pm **Dylan Morris**, Managing Director, Insight Partners
 
